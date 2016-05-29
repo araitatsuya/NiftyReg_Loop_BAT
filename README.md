@@ -29,8 +29,8 @@ https://sourceforge.net/projects/niftyreg/
 ---------
 LICENSE
 ---------
-Copyright (c) 2009, University College London, United-Kingdom
-All rights reserved.
+Copyright (c) 2009, University College London, United-Kingdom. All rights reserved.
+
 ---------
 CONTACT
 ---------
