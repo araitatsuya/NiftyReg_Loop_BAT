@@ -21,7 +21,7 @@ Running NiftyReg in for-loop using Batch in Windows environment. Though, I highl
   CPP file: IM0XXX_cpp.nii
   
 # NiftyReg
-Personally. My favorite deformable image registration software. 
+Personally. My favorite deformable image registration software developed by a group of scientists at University College London, United Kingdom. 
 
 https://sourceforge.net/projects/niftyreg/
 
