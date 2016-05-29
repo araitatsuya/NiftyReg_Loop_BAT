@@ -25,14 +25,14 @@ Personally. My favorite deformable image registration software.
 
 https://sourceforge.net/projects/niftyreg/
 
-Reference:
+# Reference
 ---------
-4 LICENSE
+LICENSE
 ---------
 Copyright (c) 2009, University College London, United-Kingdom
 All rights reserved.
 ---------
-5 CONTACT
+CONTACT
 ---------
 For any comment, please, feel free to contact Marc Modat (m.modat@ucl.ac.uk).
 https://sourceforge.net/p/niftyreg/git/ci/master/tree/
