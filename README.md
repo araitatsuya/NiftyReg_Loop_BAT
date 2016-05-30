@@ -9,7 +9,7 @@ https://sourceforge.net/p/niftyreg/discussion/1010498/thread/dc79c7b6/
 
 There are XXX source/moving 2D images to be registered onto the reference/target 2D image around the specific area specified by a mask.   
 
-1. Specify the path to the directory where all .nii files are stored. 
+1. Specify the path to the directory where all input .nii files are stored. 
 
                 cd C:\
 
