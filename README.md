@@ -1,11 +1,13 @@
 # NiftyReg_Loop_BAT
-Running NiftyReg in for-loop using Batch in Windows environment. Though, I highly discourage you to install NiftyReg in Windows. Apparently the installation requires Framework 4.0 and older version of Visual Studio (2010?). But the current Windows system (as of May 2016 Framework 4.5) does not support the old library and keeps on rewriting to newer Framework.
+Running NiftyReg in for-loop using Batch in Windows environment. 
+
+Though, I highly discourage you to install NiftyReg in Windows. Apparently the installation requires Framework 4.0 and older version of Visual Studio (2010?). But the current Windows system (as of May 2016 Framework 4.5) does not support the old library and keeps on rewriting to newer Framework.
 
 If you want to try...
 
 https://sourceforge.net/p/niftyreg/discussion/1010498/thread/dc79c7b6/
 
-# How to use NiftyReg_Loop.bat
+# Use NiftyReg_Loop.bat
 
 There are XXX source/moving 2D images to be registered onto the reference/target 2D image around the specific area specified by a mask.   
 
