@@ -37,6 +37,9 @@ There are XXX source/moving 2D images to be registered onto the reference/target
   
   CPP file: IM0XXX_cpp.nii.
   
+# See Also
+https://github.com/araitatsuya/NiftyReg_Loop_Bash
+  
 # NiftyReg
 Personally, my favorite deformable image registration software developed by a group of scientists at University College London, United Kingdom. 
 
