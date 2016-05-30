@@ -5,6 +5,17 @@ If you want to try...
 
 https://sourceforge.net/p/niftyreg/discussion/1010498/thread/dc79c7b6/
 
+# NiftyReg_Loop.bat
+
+There are XXX source/moving 2D images to be registered onto the reference/target 2D image around the specific area specified by a mask.   
+
+1. Specify the path to the directory where all .nii files are stored. 
+
+                cd C:\
+
+2. Run NiftyRef_Loop.bat using command window (cmd)
+3. Type the number of loops.
+
 #Input files
 
   Target Image: Ref0001.nii
